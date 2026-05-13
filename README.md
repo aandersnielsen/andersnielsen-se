@@ -16,6 +16,12 @@ The advisory focus is to help decision-makers reduce uncertainty, assess technic
 - Strategic property advisory
 - Support for housing cooperatives (BRF boards), property owners and insurance-related stakeholders
 
+---
+
+## Advisory Perspective
+
+Combining technical understanding within glass, metal and facade related matters with strategic and business-oriented decision support perspectives developed through industry experience, Byggingenjör SBR background and Certified Business Manager program at IHM Business School.
+
 ## When Anders Nielsen™ Is Engaged
 
 Anders Nielsen™ is typically engaged when a decision involves technical complexity, financial consequences or uncertainty around responsibility, damage assessment, repair strategy or investment level.
