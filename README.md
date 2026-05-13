@@ -37,12 +37,14 @@ This repository is part of a broader digital ecosystem connected to:
 - AndersNielsen.se
 - Anders Lead Intelligence™
 - Zero Eight Sales LLC
-- Support Palawan
 - Anders Foundation – For a Better Tomorrow
+- Support Palawan
 
-## Website
+## Related Platforms
 
-https://www.andersnielsen.se
+- https://www.andersnielsen.se
+- https://www.zeroeightsales.com
+- https://supportpalawan.org
 
 ## Status
 
