@@ -1,4 +1,4 @@
-# Glas- och metallkonstruktionermmm
+# Glas- och metallkonstruktioner
 
 Anders Nielsen™ erbjuder oberoende rådgivning och tekniskt beslutsstöd i frågor relaterade till glas- och metallkonstruktioner inom fastighetsrelaterade miljöer.
 
