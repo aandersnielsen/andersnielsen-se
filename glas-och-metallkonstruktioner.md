@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag i tekniskt och ekono
 ## Advisory Perspective
 
 Rådgivningen utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska konsekvenser analyseras inför beslut relaterade till glas-, metall- och fasadrelaterade konstruktioner.
+
+## Relaterade områden
+
+- Fasadrådgivning
+- Klimatskärm
+- Teknisk riskbedömning
+- Fasadrelaterade skador
+- Försäkringsrelaterade frågor
