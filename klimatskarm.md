@@ -19,3 +19,11 @@ Anders Nielsen™ arbetar med oberoende tekniskt beslutsstöd i frågor relatera
 - Fastighetsägare
 - Förvaltare
 - Försäkringsrelaterade aktörer
+
+## Relaterade områden
+
+- Fasadrådgivning
+- Teknisk riskbedömning
+- Glas- och metallkonstruktioner
+- Fasadrelaterade skador
+- Strategisk fastighetsrådgivning
