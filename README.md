@@ -1,39 +1,28 @@
 # Anders Nielsen™
 
-## Independent Technical Advisory & Strategic Decision Support
+## Oberoende tekniskt beslutsstöd & strategisk rådgivning
 
-Anders Nielsen™ provides independent technical advisory, analysis and strategic decision support in complex property-related matters involving glass, metal, facade and building envelope related issues.
+Anders Nielsen™ erbjuder oberoende teknisk rådgivning, analys och strategiskt beslutsstöd i komplexa fastighetsrelaterade frågor inom glas, metall, fasad och klimatskärm.
 
-The advisory focus is to help decision-makers reduce uncertainty, assess technical and financial risk, and make better decisions before costly actions are taken.
-
-## Core Advisory Areas
-
-- Facade advisory
-- Glass and metal structures
-- Building envelope related matters
-- Damage-related decision support
-- Technical risk assessment
-- Strategic property advisory
-- Support for housing cooperatives (BRF boards), property owners and insurance-related stakeholders
+Rådgivningen syftar till att hjälpa beslutsfattare att minska osäkerhet, bedöma tekniska och ekonomiska risker samt fatta bättre beslut innan kostsamma åtgärder genomförs.
 
 ---
 
-## Advisory Perspective
+## Specialistområden
 
-Combining technical understanding within glass, metal and facade related matters with strategic and business-oriented decision support perspectives developed through industry experience, Byggingenjör SBR background and Certified Business Manager program at IHM Business School.
+- Fasadrådgivning
+- Glas- och metallkonstruktioner
+- Klimatskärmsrelaterade frågor
+- Skaderelaterat beslutsstöd
+- Teknisk riskbedömning
+- Strategisk fastighetsrådgivning
+- Rådgivning för bostadsrättsföreningar, fastighetsägare och försäkringsrelaterade aktörer
 
-## When Anders Nielsen™ Is Engaged
+---
 
-Anders Nielsen™ is typically engaged when a decision involves technical complexity, financial consequences or uncertainty around responsibility, damage assessment, repair strategy or investment level.
+## Rådgivningsperspektiv
 
-Examples include:
-
-- Complex damage matters
-- Facade and building envelope issues
-- Glass and metal construction related decisions
-- Independent review before major property investments
-- Support in insurance-related technical matters
-- Advisory support for BRF boards and property owners
+Kombinerar teknisk förståelse inom glas, metall och fasadrelaterade frågor med strategiska och affärsmässiga beslutsstöds-perspektiv utvecklade genom branscherfarenhet, bakgrund som Byggingenjör SBR samt Certified Business Manager vid IHM Business School.
 
 ## Digital Ecosystem
 
@@ -54,4 +43,4 @@ This repository is part of a broader digital ecosystem connected to:
 
 ## Status
 
-This repository supports the digital presence, structure and documentation of Anders Nielsen™ and AndersNielsen.se.
+Detta repository stödjer den digitala närvaron och den löpande utvecklingen av Anders Nielsen™ och AndersNielsen.se.
