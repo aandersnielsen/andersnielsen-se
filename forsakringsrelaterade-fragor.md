@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag i skadeärenden där
 ## Advisory Perspective
 
 Rådgivningen utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska konsekvenser analyseras inför beslut relaterade till skador, återställning och fastighetsrelaterade risker.
+
+## Relaterade områden
+
+- Skaderelaterat beslutsstöd
+- Fasadrelaterade skador
+- Teknisk riskbedömning
+- Fasadrådgivning
+- Strategisk fastighetsrådgivning
