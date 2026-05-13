@@ -2,7 +2,7 @@
 
 ## Independent Technical Advisory & Strategic Decision Support
 
-Anders Nielsen™ provides independent advisory, technical analysis and strategic decision support in complex property-related matters involving facades, glass, metal structures and the building envelope.
+Anders Nielsen™ provides independent technical advisory, analysis and strategic decision support in complex property-related matters involving glass, metal, facade and building envelope related issues.
 
 The advisory focus is to help decision-makers reduce uncertainty, assess technical and financial risk, and make better decisions before costly actions are taken.
 
