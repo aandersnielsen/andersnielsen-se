@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag i situationer där t
 ## Advisory Perspective
 
 Det skaderelaterade beslutsstödet utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska konsekvenser analyseras inför beslut relaterade till fastighetens klimatskärm och byggnadsrelaterade risker.
+
+## Relaterade områden
+
+- Försäkringsrelaterade frågor
+- Fasadrelaterade skador
+- Teknisk riskbedömning
+- Klimatskärm
+- Strategisk fastighetsrådgivning
