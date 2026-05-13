@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag inför tekniskt och 
 ## Advisory Perspective
 
 Fasadrådgivningen utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska aspekter vägs samman inför beslut relaterade till fastighetens klimatskärm och byggnadsrelaterade risker.
+
+## Relaterade områden
+
+- Klimatskärm
+- Fasadrelaterade skador
+- Teknisk riskbedömning
+- Strategisk fastighetsrådgivning
+- Försäkringsrelaterade frågor
