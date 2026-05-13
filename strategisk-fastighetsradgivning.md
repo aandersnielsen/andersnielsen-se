@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag i frågor där tekni
 ## Advisory Perspective
 
 Rådgivningen utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska konsekvenser analyseras inför beslut relaterade till fastighetens långsiktiga funktion, riskbild och investeringar.
+
+## Relaterade områden
+
+- Fasadrådgivning
+- Teknisk riskbedömning
+- Klimatskärm
+- Försäkringsrelaterade frågor
+- Skaderelaterat beslutsstöd
