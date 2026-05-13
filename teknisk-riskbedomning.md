@@ -25,3 +25,11 @@ Rådgivningen syftar till att skapa bättre beslutsunderlag där tekniska, ekono
 ## Advisory Perspective
 
 Den tekniska riskbedömningen utgår från ett oberoende perspektiv där tekniska, ekonomiska och strategiska konsekvenser analyseras inför beslut relaterade till fastighetens funktion, klimatskärm och långsiktiga riskbild.
+
+## Relaterade områden
+
+- Fasadrådgivning
+- Klimatskärm
+- Försäkringsrelaterade frågor
+- Fasadrelaterade skador
+- Glas- och metallkonstruktioner
