@@ -26,15 +26,16 @@ Kombinerar teknisk förståelse inom glas, metall och fasadrelaterade frågor me
 
 ## Digital Ecosystem
 
-This repository is part of a broader digital ecosystem connected to:
+This repository is connected to a broader advisory, knowledge and digital infrastructure ecosystem related to:
 
 - Anders Nielsen™
 - AndersNielsen.se
 - Anders Lead Intelligence™
 - Zero Eight Sales LLC
+- Zero Eight Systems
 - Anders Foundation – For a Better Tomorrow
-- Support Palawan
-
+- SupportPalawan.org
+  
 ## Related Platforms
 
 - https://www.andersnielsen.se
